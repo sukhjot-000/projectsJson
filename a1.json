@@ -1,2 +1,17 @@
-{'a':1,
-  'b':2}
+[
+  {
+    "name": "Project 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "technologies": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "name": "Project 2",
+    "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "technologies": ["Angular", "Express", "MySQL"]
+  },
+  {
+    "name": "Project 3",
+    "description": "Integer euismod eu lorem et efficitur.",
+    "technologies": ["Vue.js", "Django", "PostgreSQL"]
+  }
+]
